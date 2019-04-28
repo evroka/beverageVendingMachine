@@ -1,31 +1,45 @@
 .wrap {
-	height: 100;
+	height: 930px;
 }
 
 .container {
 	display: flex;
-	flex-direction: row;
+  justify-content: center;
 	margin: 0 auto;
-	min-height: 920px;
 	width: 700px;
+	height: 100%;
 	background-color: #ba2322;
 	border-radius: 50px 50px 0 0;
-  }
-  
-  .standLeft {
-	  width: 70px;
-	  height: 35px;
-	  background-color: black;
-	  position: relative;
-	  top: 920px;
-	  left: 30px;
-  }
+}
 
-  .standRight {
+.itemsContainer {
+	width: 585px;
+	height: 550px;
+	margin-top: 80px;
+	display: flex;
+	align-items: center;
+  justify-content: center;
+}
+
+.stands {
+	width: 700px;
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+}
+  
+.standLeft {
 	width: 70px;
 	height: 35px;
 	background-color: black;
 	position: relative;
-	top: 920px;
+	left: 30px;
+}
+
+.standRight {
+	width: 70px;
+	height: 35px;
+	background-color: black;
+	position: relative;
 	right: -530px;
-  }
+}
