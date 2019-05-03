@@ -8,13 +8,23 @@ import CashBack from '../../components/CashBack'
 
 class ControlPanel extends React.Component {
 	render() {
+		const { items } = this.props
+
 		return (
 			<div className={styles.wrapper}>
 				<div className={styles.container}>
 					<Display />
-					<SelectButtons />
-					<MoneyKeeper />
-					<MoneyButtons />
+					<div className={styles.buttonContainer}>
+					 {items.map((item) => (
+							<SelectButtons 
+								onClick={() => {}}
+							/>
+						))}
+					</div>
+					<div className={styles.moneyContainer}>
+						<MoneyKeeper />
+						<MoneyButtons />
+					</div>
 					<CashBack />
 				</div>
 			</div>

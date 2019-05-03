@@ -1,12 +1,12 @@
 import React from 'react'
 import styles from './styles.module.scss'
 
-const MoneyKeeper = ({ children }) => (
+const SelectTitle = () => (
 	<div className={styles.container}>
-		<div className={styles.keeper}>
-			{children}
+		<div className={styles.selectTitle}>
+			{'Title'}
 		</div>
 	</div>
 )
 
-export default MoneyKeeper
+export default SelectTitle
