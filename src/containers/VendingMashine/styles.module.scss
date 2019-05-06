@@ -1,24 +1,29 @@
 .wrap {
-	height: 930px;
+	height: 960px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  justify-content: center;
 }
 
 .container {
 	display: flex;
-  justify-content: center;
-	margin: 0 auto;
+	flex-direction: column;
 	width: 700px;
 	height: 100%;
 	background-color: #ba2322;
 	border-radius: 50px 50px 0 0;
 }
 
+.box {
+	margin: 40px 55px;
+}
+
 .itemsContainer {
 	width: 585px;
-	height: 550px;
-	margin-top: 80px;
+	height: 590px;
+	margin: 80px auto 0;
 	display: flex;
-	align-items: center;
-  justify-content: center;
 }
 
 .stands {
