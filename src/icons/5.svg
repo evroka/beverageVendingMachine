@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27px" height="27px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 27 27"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="702" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Avanti">
+		<font-face-src>
+			<font-face-name name="Avanti Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="5" horiz-adv-x="531" d="M426.165 702.025l0 -120.026 -223.337 0 -21.8579 -129.026c32.2083,13.3719 61.8451,20.0579 89.0389,20.0579 40.5014,0 77.8528,-10.8647 112.183,-32.7226 34.3298,-21.7936 61.4593,-51.4947 81.6458,-88.9746 20.1864,-37.3513 30.1511,-77.8528 30.1511,-121.311 0,-44.5516 -10.8004,-85.8245 -32.6583,-123.69 -21.8579,-37.9942 -51.1733,-68.0167 -88.0103,-90.1961 -36.9656,-22.1151 -77.017,-33.1083 -120.347,-33.1083 -64.6095,0 -121.311,23.3365 -169.977,69.9454 -22.6937,22.6937 -40.3086,47.7017 -52.9733,75.0241 -9.51463,21.6651 -16.0077,48.4732 -19.0293,79.9743l127.033 0c5.97878,-32.3369 18.6435,-57.4735 37.8014,-75.2813 19.1578,-17.8721 43.3301,-26.6795 72.1954,-26.6795 22.5008,0 42.8158,5.3359 60.8165,16.0077 18.1292,10.6718 32.3369,25.3295 42.6872,43.973 10.2861,18.6435 15.4934,39.6657 15.4934,63.0023 0,21.8579 -5.3359,41.8515 -15.8791,60.3664 -10.6718,18.4507 -24.9437,33.1083 -43.3301,43.973 -18.3221,10.9932 -38.3157,16.522 -59.7878,16.6506 -34.7155,0 -65.3809,-15.622 -91.9961,-47.1231l-113.018 30.9868 65.8309 368.177 317.326 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Avanti";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#4F1109}
+    .fnt0 {font-weight:bold;font-size:18.3737px;font-family:'Avanti'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="14" cy="13" r="13"/>
+  <text x="9" y="20"  class="fil1 fnt0">5</text>
+ </g>
+</svg>

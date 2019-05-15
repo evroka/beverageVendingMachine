@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27px" height="27px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 27 27"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="702" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Avanti">
+		<font-face-src>
+			<font-face-name name="Avanti Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="2" horiz-adv-x="531" d="M39.9871 0l0 120.026 242.044 224.815c32.144,29.6368 54.4519,54.9662 66.9881,76.1813 12.6647,21.1508 18.965,43.7801 18.965,67.9524 0,30.0225 -9.51463,54.8377 -28.6725,73.9955 -19.1578,19.3507 -43.4587,29.0582 -73.1598,29.0582 -21.7936,0 -40.8229,-5.01446 -56.8306,-15.0434 -16.1363,-9.96464 -28.6725,-24.4937 -37.3513,-43.4587 -8.61459,-19.0293 -12.9862,-40.8872 -12.9862,-65.5095l0 -8.16458 -126.969 0 0 25.1366c0,41.8515 10.1575,80.4886 30.794,115.847 20.5079,35.1655 48.216,63.1951 83.3815,83.5101 34.9727,20.5079 73.2883,30.6654 114.818,30.6654 42.6872,0 81.8386,-10.1575 117.647,-30.3439 35.6798,-20.315 63.838,-48.1517 84.5387,-83.5101 20.4436,-35.2941 30.794,-73.9955 30.794,-116.168 0,-27.001 -5.14304,-55.1591 -15.6863,-84.3459 -10.4789,-29.1225 -23.658,-52.1376 -39.28,-68.6596l-88.846 -92.9605 -133.205 -118.997 277.017 0 0 -120.026 -454.002 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Avanti";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#4F1109}
+    .fnt0 {font-weight:bold;font-size:18.3737px;font-family:'Avanti'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_680955648">
+   <circle class="fil0" cx="14" cy="14" r="13"/>
+   <text x="9" y="20"  class="fil1 fnt0">2</text>
+  </g>
+ </g>
+</svg>

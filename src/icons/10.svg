@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27px" height="27px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 27 27"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="702" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Avanti">
+		<font-face-src>
+			<font-face-name name="Avanti Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="0" horiz-adv-x="531" d="M28.0296 468.017c0,71.6811 18.3221,128.319 54.9662,169.785 20.315,24.1723 46.6731,43.0087 79.2028,56.702 32.4654,13.6933 66.2809,20.5079 101.639,20.5079 35.3584,0 67.5024,-5.65734 96.3034,-17.1649 28.9939,-11.5076 53.8734,-28.1581 74.7027,-50.2089 20.9579,-21.9865 36.837,-48.1517 47.8303,-78.4957 10.8004,-30.2797 16.3292,-63.9666 16.3292,-101.125l0 -237.994c0,-71.6811 -18.3221,-128.19 -55.0305,-169.849 -21.2793,-24.3652 -47.6374,-43.2015 -78.9457,-56.8306 -31.5011,-13.5005 -64.5452,-20.315 -99.0035,-20.315 -67.8881,0 -125.554,22.6294 -172.999,68.1453 -23.8509,23.1437 -40.6943,48.666 -50.3375,76.3099 -9.83607,27.7081 -14.6577,63.838 -14.6577,108.711l0 231.823zm343.941 2.95725c0,23.5294 -4.50016,44.5516 -13.6291,62.8737 -9.19319,18.5149 -21.8579,32.6583 -38.1871,42.8158 -16.3292,10.1575 -35.1655,15.3648 -56.3163,15.3648 -34.3298,0 -61.0093,-11.0575 -80.1671,-33.044 -19.1578,-21.9865 -28.6725,-52.9733 -28.6725,-92.9605l0 -227.001c0,-44.5516 7.97171,-76.5027 23.9794,-95.8534 21.3436,-24.8152 49.3732,-37.1585 83.8316,-37.1585 34.8441,0 63.1951,12.9862 85.053,38.9585 16.1363,19.6721 24.108,50.3375 24.108,92.0604l0 233.944z"/>
+   <glyph unicode="1" horiz-adv-x="531" d="M234.008 0l0 581.999 -88.846 0 0 120.026 214.851 0 0 -702.025 -126.005 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Avanti";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#4F1109}
+    .fnt0 {font-weight:bold;font-size:18.3737px;font-family:'Avanti'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="14" cy="13" r="13"/>
+  <text x="3" y="20"  class="fil1 fnt0">10</text>
+ </g>
+</svg>
