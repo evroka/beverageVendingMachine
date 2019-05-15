@@ -1,0 +1,37 @@
+.buttonsContainer {
+	width: 70px;
+	height: 63px;
+	box-sizing: border-box;
+}
+
+.oneRub {
+	display: inline-block;
+	width: 27px;
+	height: 27px;
+	margin-right: 10px;
+	background: url('../../icons/1.svg') no-repeat center center;
+}
+
+.twoRub {
+	display: inline-block;
+	width: 27px;
+	height: 27px;
+	background: url('../../icons/2.svg') no-repeat center center;
+}
+
+.fiveRub {
+	display: inline-block;
+	width: 27px;
+	height: 27px;
+	margin-right: 10px;
+	margin-top: 5px;
+	background: url('../../icons/5.svg') no-repeat center center;
+}
+
+.tenRub {
+	display: inline-block;
+	width: 27px;
+	height: 27px;
+	margin-top: 5px;
+	background: url('../../icons/10.svg') no-repeat center center;
+}
